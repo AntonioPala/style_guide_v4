@@ -1,0 +1,8 @@
+%nav {
+  padding: 20px;
+  border-radius: 8%;
+  list-style-type: none;
+  &:hover {
+    background-color: $base-c;
+  }
+}
